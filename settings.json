@@ -2,5 +2,9 @@
     "normal": "https://dl.dropboxusercontent.com/s/4s6nsrxn5epq63ss182bq/Normal.zip?rlkey=47752q606sc8mth4tbpjptuth&dl=0",
     "minimal": "https://dl.dropboxusercontent.com/s/tjqja3w38fo2fo5gk6xug/Minimal.zip?rlkey=zdrdjjqz242wctvqcxoupt4cw&dl=0",
     "fabulous": "https://dl.dropboxusercontent.com/s/2ilm11sg36hdp3wc0ug6j/Fabulous.zip?rlkey=ksssapr42dmrksyg5maellsbh&dl=0",
-    "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar"
+    "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar",
+    "oculus": "placeholder!",
+    "default_options": "placeholder!",
+    "controlling": "placeholder!",
+    "shaderpack": "placeholder!"
 }
