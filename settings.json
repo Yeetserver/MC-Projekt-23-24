@@ -1,10 +1,9 @@
-{
-    "normal": "https://dl.dropboxusercontent.com/s/4s6nsrxn5epq63ss182bq/Normal.zip?rlkey=47752q606sc8mth4tbpjptuth&dl=0",
-    "minimal": "https://dl.dropboxusercontent.com/s/tjqja3w38fo2fo5gk6xug/Minimal.zip?rlkey=zdrdjjqz242wctvqcxoupt4cw&dl=0",
-    "fabulous": "https://dl.dropboxusercontent.com/s/2ilm11sg36hdp3wc0ug6j/Fabulous.zip?rlkey=ksssapr42dmrksyg5maellsbh&dl=0",
+{    
     "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar",
-    "oculus": "placeholder!",
-    "default_options": "placeholder!",
-    "controlling": "placeholder!",
-    "shaderpack": "placeholder!"
+    "normal": "https://dl.dropboxusercontent.com/s/kfvjd709hoybqkuyio1ag/normal.zip?rlkey=t1demix5g5hmlqeitfvva8s00&dl=0",
+    "minimal": "https://dl.dropboxusercontent.com/s/vj204cfk2gdyhfque0nem/minimal.zip?rlkey=7w50yutu93049jmdl8kpt612a&dl=0",
+    "fabulous": "https://dl.dropboxusercontent.com/s/byj8ykb90my487zhaikzx/fabulous.zip?rlkey=0qb836828c6lf6i3xl29mw66m&dl=0",
+    "oculus": "https://dl.dropboxusercontent.com/s/kbipvoew3vk5qel919jk2/shader.zip?rlkey=fdv5l75inz8ope99ctczpmdj5&dl=0",
+    "default_options": "https://dl.dropboxusercontent.com/s/wgxdmrwvmjsql851vpdj5/defaultoptions.zip?rlkey=1uqi04y8t5gunl15si1uaumxd&dl=0",
+    "controlling": "https://dl.dropboxusercontent.com/s/uqgt3ui3bkm90u1fwosnt/controlling.zip?rlkey=dadll5qe19murniysm2zs5ich&dl=0",
 }
