@@ -1,4 +1,4 @@
-#Was macht der Modinstaller?
+-> Installationsdurchfuehrung
 
 1. Aufraeumen: Der Modinstaller verschiebt automatisch
 alte Mods, Texturpacks, ... in einen Backup-Ordner.
@@ -10,20 +10,20 @@ wird das gewaehlte Modpack heruntergeladen.
 heruntergeladen Modpack automatisch entpack und
 somit die Installation abgeschlossen.
 
-#Verfuegbare Installationen:
+-> Verfuegbare Installationen:
   - Minimal (Maximale Performance)
   - Normal (Ausgewogen)
   - Fabelhaft (Maximale Grafik)
 
-#Extras:
+-> Extras:
   Controlling (Erweiterte Einstellungen fuer Hotkeys)
   Default Options (Festlegbare Standardeinstellungen)
   Shader (Ermoeglicht das nutzen von Shaderpacks)
 
-#Forge:
+-> Forge:
   Laedt und fuehrt die benoetigte Installationsdatei fuer Forge aus.
 
-#Bei Fehlern:
-  1. Der Modinstaller darf NICHT im Zip-Ordner ausgfuehrt werden
-  2. Erneut versuchen
-  3. Mods manuell herunterladen
+-> Bei Fehlern:
+  1. Der Modinstaller darf NICHT im Zip-Ordner ausgfuehrt werden.
+  2. Erneut versuchen.
+  3. Mods manuell herunterladen.
